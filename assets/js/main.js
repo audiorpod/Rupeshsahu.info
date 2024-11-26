@@ -160,7 +160,7 @@ function handleClick(project) {
           window.open('https://www.swiggy.com', '_blank'); 
           break;
       case 'Business':
-          window.open('https://www.swiggy.com', '_blank'); 
+          window.open('https://product-manager-omega.vercel.app', '_blank'); 
           break;
       case 'medico':
           window.open('https://www.netmeds.com/?srsltid=AfmBOoqgMuBIQPbtjNtimIo9giCQK6yDSGYSjW39fGw3P3_63TAYCes4', '_blank'); 
